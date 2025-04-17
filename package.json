@@ -1,0 +1,20 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean_code.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.24.0",
+    "globals": "^16.0.0",
+    "jest": "^29.7.0"
+  }
+}
